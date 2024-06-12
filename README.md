@@ -36,15 +36,10 @@
     <li><a href="https://github.com/DaiyanNDahy/CSE2100" target="_blank">Students Hall Management Software</a></li>
 </ul>
 
-<h2>Connect with me</h2>
-<p>
-    <a href="https://www.linkedin.com/in/daiyan-noory-dahy-62863a209?" target="_blank">LinkedIn</a> |
-    <a href="https://m.facebook.com/profile.php?id=100086573405878" target="_blank">Facebook</a> |
-    <a href="https://x.com/NooryDahy" target="_blank">Twitter</a>
-</p>
-
 <h2>Competitive Programming Profiles</h2>
 <ul>
+    <li><a href="https://uhunt.onlinejudge.org/id/893973" target="_blank">UVa Online Judge</a></li>
+
     <li><a href="https://codeforces.com/profile/shadaBhai2.0" target="_blank">Codeforces</a></li>
     <li><a href="https://leetcode.com/u/daiyanndahy/" target="_blank">LeetCode</a></li>
     <li><a href="https://www.hackerrank.com/profile/daiyanndahy" target="_blank">HackerRank</a></li>
