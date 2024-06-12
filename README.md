@@ -9,9 +9,9 @@
 
 <h1>Hi, I'm Daiyan Noory Dahy!</h1>
 <p>
-    I am an undergraduate student at RUET, majoring in Computer Science and Engineering (CSE). 
+    I am an undergraduate student at CSE, RUET. 
     I am also a competitive programmer with expertise in C and C++. 
-    In addition to these, I have knowledge of Java, HTML, CSS, Bootstrap, OOP, and DSA.
+    In addition to these, I have knowledge of Java, HTML, CSS, Bootstrap, OOP, linux, and DSA.
 </p>
 
 <h2>Skills</h2>
