@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daiyan Noory Dahy's GitHub Profile</title>
+    
 </head>
 <body>
 
@@ -26,7 +26,7 @@
     <li>DSA (Data Structures and Algorithms)</li>
 </ul>
 
-<h2>Currently Learning</h2>
+<h2>Willing to learn </h2>
 <ul>
     <li>LaTeX</li>
 </ul>
@@ -45,7 +45,7 @@
     <li><a href="https://leetcode.com/u/daiyanndahy/" target="_blank">LeetCode</a></li>
     <li><a href="https://www.hackerrank.com/profile/daiyanndahy" target="_blank">HackerRank</a></li>
     <li><a href="https://codeforces.com/profile/shadaBhai" target="_blank">Old Codeforces Profile</a></li>
-    <li><a href="https://uhunt.onlinejudge.org/id/893973" target="_blank">UVa Online Judge</a></li>
+    <li><a href="https://uhunt.onlinejudge.org/id/893973" target="_blank">Uhunt from UVa Online Judge</a></li>
 </ul>
 
 </body>
