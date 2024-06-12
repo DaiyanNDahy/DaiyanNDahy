@@ -26,9 +26,12 @@
     <li>DSA (Data Structures and Algorithms)</li>
 </ul>
 
-<h2>Willing to learn </h2>
+<h2>Areas of Interest</h2>
 <ul>
+    <li>ML/AI</li>
     <li>LaTeX</li>
+    <li>Linux</li>
+    <li>Git</li>
 </ul>
 
 <h2>Projects</h2>
