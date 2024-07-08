@@ -21,6 +21,7 @@
     <li>Java</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>LaTeX</li>
     <li>Bootstrap</li>
     <li>OOP (Object-Oriented Programming)</li>
     <li>DSA (Data Structures and Algorithms)</li>
@@ -29,7 +30,6 @@
 <h2>Areas of Interest</h2>
 <ul>
     <li>ML/AI</li>
-    <li>LaTeX</li>
     <li>Linux</li>
     <li>Git</li>
 </ul>
