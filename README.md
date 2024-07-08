@@ -32,6 +32,9 @@
     <li>ML/AI</li>
     <li>Linux</li>
     <li>Git</li>
+    <li>DSA</li>
+    <li>Problem Solving</li>
+    <li>Discrete Math</li>
 </ul>
 
 <h2>Projects</h2>
