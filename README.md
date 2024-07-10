@@ -39,6 +39,9 @@
 
 <h2>Projects</h2>
 <ul>
+    <li><a href="https://github.com/DaiyanNDahy/CSE2100" target="_blank">Students Hall Management Software</a></li> 
+    <li><a href="https://github.com/DaiyanNDahy/personal-website" target="_blank">Personal Website of JackSmith</a></li>
+    <li><a href="https://daiyanndahy.github.io/hot-gadgets/" target="_blank">Hot Gadgets</a></li>
     <li><a href="https://github.com/DaiyanNDahy/CSE2100" target="_blank">Students Hall Management Software</a></li>
 </ul>
 
