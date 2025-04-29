@@ -10,7 +10,7 @@
 <h1>Hi, I'm Daiyan Noory Dahy!</h1>
 <p>
     I am pursuing my undergrad degree in Computer Science and Engineering (CSE) at RUET.
-    I am also a competitive programmer with expertise in C and C++. 
+    I am also a problem solver with expertise in C and C++. 
     In addition to these, I have knowledge of Java, HTML, CSS, Bootstrap, OOP, and DSA.
 </p>
 
