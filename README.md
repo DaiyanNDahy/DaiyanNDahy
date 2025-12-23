@@ -48,15 +48,6 @@
 <h2>Contact</h2>
 <p>Email: daiyanndahy@gmail.com</p>
 
-<h2>Competitive Programming Profiles</h2>
-<ul>
-    <li><a href="https://codeforces.com/profile/shadaBhai2.0" target="_blank">Codeforces</a></li>
-    <li><a href="https://leetcode.com/u/daiyanndahy/" target="_blank">LeetCode</a></li>
-    <li><a href="https://www.hackerrank.com/profile/daiyanndahy" target="_blank">HackerRank</a></li>
-    <li><a href="https://www.hackerrank.com/profile/daiyannoorydahy" target="_blank">Old HackerRank Profile</a></li>
-    <li><a href="https://codeforces.com/profile/shadaBhai" target="_blank">Old Codeforces Profile</a></li>
-    <li><a href="https://uhunt.onlinejudge.org/id/893973" target="_blank">Uhunt from UVa Online Judge</a></li>
-</ul>
 
 </body>
 </html>
