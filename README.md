@@ -12,6 +12,7 @@
     I am pursuing my undergrad degree in Computer Science and Engineering (CSE) at RUET.
     I am also a problem solver with expertise in C and C++. 
     In addition to these, I have knowledge of Java, HTML, CSS, Bootstrap, OOP, and DSA.
+    Recently, I've been selected as an ML intern at Flyrank AI. 
 </p>
 
 <h2>Skills</h2>
